@@ -1,0 +1,38 @@
+body {
+	background-color: orange;
+}
+
+button {
+	width: 80%;
+	height: 40px;
+	margin: 0 10%;
+	float: left;
+}
+
+button.answerchoice {
+	display: none;
+}
+
+button:hover {
+	background-color: black;
+	color: white;
+}
+
+.answers div {
+	margin: 0 auto;
+}
+
+img {
+	height: 200px;
+	width: auto;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 75px;
+}
+
+h2, h3, h4, .question {
+	text-align: center;
+}
